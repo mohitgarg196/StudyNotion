@@ -52,3 +52,14 @@ StudyNotion is an innovative EdTech platform designed to revolutionize the way s
   - Monitor course performance and gather valuable feedback from students.
 
 StudyNotion is not just an online learning platform; it's a community where learners and educators come together to explore, learn, and grow. Join StudyNotion today and take your learning journey to new heights!
+
+**Home Page**
+![image](https://github.com/user-attachments/assets/3a878935-1353-4146-8d27-e7a267738b9b)
+
+**Signup Page**
+![image](https://github.com/user-attachments/assets/528a8b6f-9aca-4dcb-952a-67ef93bab86f)
+
+**Login Page**
+![image](https://github.com/user-attachments/assets/ce214212-075d-42bd-ba53-845c5a54473e)
+
+
